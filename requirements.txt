@@ -1,0 +1,6 @@
+pydantic
+loguru
+undetected_chromedriver
+selenium
+pywin32
+names
